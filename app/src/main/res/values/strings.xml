@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RT_Mob_App_Proj2</string>
+    
+    <string-array name="status_array">
+        <item>in progress</item>
+        <item>completed</item>
+        <item>dropped</item>
+        <item>plan to take</item>
+    </string-array>
+
+    <string-array name="assessmentType_array">
+        <item>performance</item>
+        <item>objective</item>
+    </string-array>
+    
+</resources>
